@@ -12,9 +12,9 @@ website:
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
-    background: light
+    background: light  # You can change the background color here
 
-    left:
+    left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
       - text: About
@@ -27,19 +27,19 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publication
+          - text: List of Publications
             href: publications.qmd
           - text: Selected Papers
             href: posts.qmd#category=paper
           - text: Grants
             href: projects.qmd                                
-      - text: Teaching
+      - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
       - text: Outreach
         menu:        
         - text: Presentations
           href: posts.qmd#category=presentation                   
-      - text: Group
+      - text: Group   # Comment the Group part out to remove the Group page
         href: people.qmd
 
     right: 
@@ -93,7 +93,7 @@ website:
     tracking-id: ""  # Please delete or replace with your own tracking ID
     anonymize-ip: true 
 
-bibliography: references.bib
+bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
 format:
   html:

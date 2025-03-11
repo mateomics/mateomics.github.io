@@ -12,7 +12,7 @@ listing:
   feed: true
   contents: 
       - posts
-      - posts/post-links.yml
+      - posts/post-links.yml  # Use this file to add external links
 #      categories: [] 
 
 #page-layout: full
@@ -21,3 +21,5 @@ page-navigation: false
 title-block-banner: false
 ---
 
+:::{#posts}
+:::
