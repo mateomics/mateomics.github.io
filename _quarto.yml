@@ -57,11 +57,12 @@ website:
       - icon: github
         href: https://github.com/mateomics
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
+      - icon: "brands-bluesky" # text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/mateomics.bsky.social
         target: _blank
-      - text: twitter
+      - icon: "brands-x" # Still trying
         href: https://x.com/mateomics_
+        target: _blank
       #- icon: rss
       #  href: posts.xml
       #  target: _blank
