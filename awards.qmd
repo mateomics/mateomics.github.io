@@ -4,7 +4,7 @@ description-meta: "Get in touch with me!"
 title-block-banner: false
 ---
 
-<left>
+<center>
 
 ***Get in touch with me!***
 
@@ -14,7 +14,7 @@ University: [National Autonomous University of Mexico](http://english.unam.mx) (
 
 Address: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.
 
-E-mail: [majiso@lcg.unam.mx](mailto:majiso@lcg.unam.mx)
+E-mail: majiso@lcg.unam.mx
 
 
 </center>

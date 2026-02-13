@@ -1,0 +1,35 @@
+---
+title: "Beyond Science"
+description-meta: "A bit of my personal interest apart from Science"
+title-block-banner: false
+---
+
+<center>
+## Cycling
+</center>
+
+<left>
+I love cycling, particularly when my routes take me along open **roads**, winding **gravel** trails, or bustling city **streets**!
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+  <img src="images/road.jpg" alt="Speed and flow of the road" style="height: 360px; width: auto;"/>
+  <img src="images/gravel.jpg" alt="Adventure of gravel" style="height: 360px; width: auto;"/>
+  <img src="images/street.jpg" alt="Unpredictability of the city" style="height: 360px; width: auto;"/>
+</div>
+
+</left>
+
+<center>
+## Music
+</center>
+
+<left>
+Music has always been part of my life. I’m mainly drawn to jazz, classical, rock, and *rock en español*. I studied classical double bass and even performed in an orchestra. Over the years, I’ve learned to play several instruments, including **flute**, recorder, guitar, **bass**, and **double bass**.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+  <img src="images/flute.jpg" alt="Flute" style="height: 280px; width: auto;"/>
+  <img src="images/bass.jpg" alt="Bass" style="height: 280px; width: auto;"/>
+  <img src="images/double_bass.jpg" alt="Double_bass" style="height: 280px; width: auto;"/>
+</div>
+
+</left>
