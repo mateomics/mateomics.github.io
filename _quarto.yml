@@ -12,11 +12,23 @@ website:
   description: "Mateo Jimenez-Sotelo, undergraduate (LCG) researcher in computational genomics and paleogenomics."
  
   navbar:
-    background: black  # You can change the background color here
+    background: gray  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: Home
         href: index.qmd
+      - text: Research
+        menu:
+          #- text: List of Publications
+          #  href: publications.qmd
+          #- text: Selected Papers
+          #  href: posts.qmd#category=paper
+          #- text: Grants
+          #  href: projects.qmd
+          - text: Experience
+            href: experience.qmd
+          - text: Awards
+            href: awards.qmd
       - text: About
         menu:
           #- text: News
@@ -26,21 +38,7 @@ website:
           - text: Contact
             href: contact.qmd
           - text: Beyond Science
-            href: interests.qmd
-      - text: Research
-        menu:
-          #- text: List of Publications
-          #  href: publications.qmd
-          #- text: Selected Papers
-          #  href: posts.qmd#category=paper
-          #- text: Grants
-          #  href: projects.qmd
-          - text: Systems Biology
-            href: systems.qmd
-          - text: Paleogenomics
-            href: paleolab.qmd
-          - text: Awards
-            href: awards.qmd
+            href: interests.qmd            
       #- text: Teaching # Comment the Teaching part out to remove the Teaching page
       #  href: teaching.qmd
       #- text: Outreach
@@ -53,7 +51,7 @@ website:
 
     right: 
       - text: CV
-        href: files/cv.pdf # files/nsf-biosketch.pdf
+        href: files/curriculum_vitae_Mateo_Jimenez.pdf # files/nsf-biosketch.pdf
       - icon: github
         href: https://github.com/mateomics
         target: _blank
