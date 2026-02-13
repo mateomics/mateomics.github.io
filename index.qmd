@@ -48,7 +48,10 @@ about:
 #      - "title asc"
 ---
 
+<!-- this is the commentary syntaxis
 # The following section is the core of the website, in which is showed the text you write
+-->
+
 :::{#hero-heading}
 
 I am a second-year undergraduate student in Genomic Sciences at the National Autonomous University of Mexico (UNAM), based at the Center for Genomic Sciences (CCG).
@@ -72,12 +75,16 @@ I am passionate about scientific computing, statistical modeling, and reproducib
 
 :::
 
-
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-#Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
-#:::{#recent-posts}
-#:::
+# Recent Posts
+Coming soon...
 
-#<p align="right">[All Posts »](/posts.qmd)</p>
+<!--
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>
+-->
