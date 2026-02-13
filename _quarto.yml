@@ -15,8 +15,8 @@ website:
     background: black  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
+      - text: Home
+        href: index.qmd
       - text: About
         menu:
           #- text: News
