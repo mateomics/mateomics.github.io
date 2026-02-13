@@ -9,7 +9,7 @@ page-layout: full
 
 about:
   id: hero-heading
-  template: solana # trestles
+  template: trestles
   image-width: 70%
   links:
     - icon: envelope
@@ -54,7 +54,7 @@ about:
 
 :::{#hero-heading}
 
-I am a second-year undergraduate student in Genomic Sciences at the National Autonomous University of Mexico (UNAM), based at the Center for Genomic Sciences (CCG).
+I am a second-year undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx) at the [National Autonomous University of Mexico](http://english.unam.mx) (UNAM), based at the [Center for Genomic Sciences](https://www.ccg.unam.mx/en/) (CCG).
 
 My academic interests lie in computational genomics, paleogenomics, and evolutionary biology. I am particularly interested in the analysis of ancient DNA and the evolutionary dynamics of pathogens in colonial-era populations of New Spain.
 
