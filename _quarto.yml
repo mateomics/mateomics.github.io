@@ -59,7 +59,7 @@ website:
   
   page-footer: 
     left: "[Mateo Jimenez-Sotelo](http://www.github.com/mateomics) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build with Quatro, based on [Dr. Gang He](http://drganghe.github.io)'s [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
+    center: "Build with Quarto, based on [Dr. Gang He](http://drganghe.github.io)'s [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:  
       - icon: github
         href: https://github.com/mateomics/mateomics.github.io
