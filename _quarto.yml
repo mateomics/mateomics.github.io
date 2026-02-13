@@ -60,7 +60,7 @@ website:
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/mateomics.bsky.social
         target: _blank
-      - text: "{{< fa brands X >}}" # Still trying
+      - text: '<img src="files/x-logo.svg" style="height:1.2em">' # Still trying
         href: https://x.com/mateomics_
         target: _blank
       #- icon: rss
