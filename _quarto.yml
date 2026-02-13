@@ -12,7 +12,7 @@ website:
   description: "Mateo Jimenez-Sotelo, undergraduate (LCG) researcher in computational genomics and paleogenomics."
  
   navbar:
-    background: gray  # You can change the background color here
+    background: black  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: Home

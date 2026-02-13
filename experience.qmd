@@ -1,0 +1,45 @@
+---
+title: "Research experience"
+description-meta: "My research experience among the labs I've worked with"
+title-block-banner: false
+---
+
+<center>
+
+## [International Laboratory for Human Genome Research](https://liigh.unam.mx), UNAM
+</center>
+
+<div style="text-align: right;">
+
+> Juriquilla, Mexico | Jan 2025 - present
+
+</div>
+
+<left>
+*Undergraduate researcher*
+
+PI: **Maria Avila-Arcos**, [Population & Evolutionary Genomics Lab](https://liigh.unam.mx/mavila/).
+
+*(Pending for more information)*
+
+</left>
+
+<center>
+
+## [Center for Genomic Sciences](https://www.ccg.unam.mx/en/), UNAM
+</center>
+
+<div style="text-align: right;">
+
+> Cuernavaca, Mexico | Dec 2024 - present
+
+</div>
+
+<left>
+*Undergraduate researcher*
+
+PI: **Julio A. Freyre-Gonzalez**, [Systems Biology Lab](http://freyrelab.org/en/).
+
+*(Pending for more information)*
+
+</left>

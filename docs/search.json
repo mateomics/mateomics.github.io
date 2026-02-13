@@ -49,46 +49,39 @@
     "text": "B.Sc. in Genomic Sciences, UNAM (2024–present)"
   },
   {
-    "objectID": "interests.html",
-    "href": "interests.html",
-    "title": "Beyond Science",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Research experience",
     "section": "",
-    "text": "I love cycling, particularly when my routes take me along open roads, winding gravel trails, or bustling city streets!\nMusic has always been part of my life. I’m mainly drawn to jazz, classical, rock, and rock en español. I studied classical double bass and even performed in an orchestra. Over the years, I’ve learned to play several instruments, including flute, recorder, guitar, bass, and double bass."
+    "text": "Undergraduate researcher\nPI: Maria Avila-Arcos, Population & Evolutionary Genomics Lab.\n(Pending for more information)\nUndergraduate researcher\nPI: Julio A. Freyre-Gonzalez, Systems Biology Lab.\n(Pending for more information)"
   },
   {
-    "objectID": "interests.html#music",
-    "href": "interests.html#music",
-    "title": "Beyond Science",
-    "section": "Music",
-    "text": "Music"
+    "objectID": "experience.html#center-for-genomic-sciences-unam",
+    "href": "experience.html#center-for-genomic-sciences-unam",
+    "title": "Research experience",
+    "section": "Center for Genomic Sciences, UNAM",
+    "text": "Center for Genomic Sciences, UNAM"
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "systems.html",
-    "href": "systems.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Get in touch with me!\nSchool: Center for Genomic Sciences (CCG)\nUniversity: National Autonomous University of Mexico (UNAM)\nAddress: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.\nE-mail: majiso@lcg.unam.mx"
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
   },
   {
     "objectID": "awards.html",
     "href": "awards.html",
-    "title": "Contact",
+    "title": "Mateo Jimenez-Sotelo",
     "section": "",
-    "text": "Get in touch with me!\nSchool: Center for Genomic Sciences (CCG)\nUniversity: National Autonomous University of Mexico (UNAM)\nAddress: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.\nE-mail: majiso@lcg.unam.mx"
+    "text": "Academic Trainee\nPI: Moises O. Fiesco-Roa, Embryology and Genetics Department.\n(Pending for more information)"
   },
   {
     "objectID": "publications.html",
@@ -103,13 +96,6 @@
     "title": "Publications",
     "section": "Selected Work",
     "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "paleolab.html",
-    "href": "paleolab.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Get in touch with me!\nSchool: Center for Genomic Sciences (CCG)\nUniversity: National Autonomous University of Mexico (UNAM)\nAddress: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.\nE-mail: majiso@lcg.unam.mx"
   },
   {
     "objectID": "contact.html",
@@ -147,18 +133,32 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
   },
   {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Beyond Science",
+    "section": "",
+    "text": "I love cycling, particularly when my routes take me along open roads, winding gravel trails, or bustling city streets!\nMusic has always been part of my life. I’m mainly drawn to jazz, classical, rock, and rock en español. I studied classical double bass and even performed in an orchestra. Over the years, I’ve learned to play several instruments, including flute, recorder, guitar, bass, and double bass."
+  },
+  {
+    "objectID": "interests.html#music",
+    "href": "interests.html#music",
+    "title": "Beyond Science",
+    "section": "Music",
+    "text": "Music"
   },
   {
     "objectID": "projects.html",

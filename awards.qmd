@@ -1,20 +1,19 @@
----
-title: "Contact"
-description-meta: "Get in touch with me!"
-title-block-banner: false
----
-
 <center>
 
-***Get in touch with me!***
-
-School: [Center for Genomic Sciences](https://www.ccg.unam.mx/en/) (CCG)
-
-University: [National Autonomous University of Mexico](http://english.unam.mx) (UNAM)
-
-Address: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.
-
-E-mail: majiso@lcg.unam.mx
-
-
+## [School of Medicine](https://www.facmed.unam.mx), UNAM
 </center>
+
+<div style="text-align: right;">
+
+> Mexico City, Mexico | May 2023 - August 2023
+
+</div>
+
+<left>
+*Academic Trainee*
+
+PI: **Moises O. Fiesco-Roa**, [Embryology and Genetics Department](https://embriologia.facmed.unam.mx).
+
+*(Pending for more information)*
+
+</left>
