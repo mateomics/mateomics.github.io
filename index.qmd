@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: "Mateo Jimenez-Sotelo"
+description-meta: "Undergraduate researcher in computational genomics and paleogenomics at UNAM"
+image: "images/profile_picture.jpeg" # Here sould be your profile picture
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,106 +12,72 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
+      text: UNAM Email
+      href: mailto:majiso@lcg.unam.mx
+    - icon: github
+      text: GitHub
+      href: https://github.com/mateomics
+      target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/majiso/
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0000-6459-1688
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/mateomics.bsky.social
       target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+#listing: # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#  - id: recent-posts
+#    contents: 
+#      - posts
+#      - posts/post-links.yml
+#    exclude:
+#      title: ""
+#    type: grid
+#    max-items: 3
+##    image-height: 150px
+#    page-size: 3 #set same as max-times to remove the page number setting
+#    fields: [image, date, title, subtitle]
+#    max-description-length: 75
+#    sort: 
+#      - "date desc"
+#      - "title asc"
 ---
 
+# The following section is the core of the website, in which is showed the text you write
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I am a second-year undergraduate student in Genomic Sciences at the National Autonomous University of Mexico (UNAM), based at the Center for Genomic Sciences (CCG).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+My academic interests lie in computational genomics, paleogenomics, and evolutionary biology. I am particularly interested in the analysis of ancient DNA and the evolutionary dynamics of pathogens in colonial-era populations of New Spain.
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Test to publish** your site using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch) (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Check** if your website works or not. If successful, you should see exactly the same website as this one using your own Github Pages url:
-   - `https://YourGitHubUserName.github.io` if your repository name is `YourGitHubUserName.github.io`
-   - `https://YourGitHubUserName.github.io/RepositoryName` for other `RepositoryName`
-   - Errors:
-      - If [404](/files/images/Error1.png), it is likely you haven't set up GitHub Pages
-      - If it shows the [README](/files/images/Error2.png) file, it is likely you've published from the `root` folder, not the `docs` directory
+Currently, I collaborate in research projects focused on:
 
-If you achieve this milestone, congratulations! You are now ready to start updating your website:
+- **Systems computational biology**: curation and normalization of microarray metadata for large-scale transcriptomic analyses  
+- **Paleogenomics**: genomic analysis of ancient pathogens from historical populations  
 
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/#website-preview) your site locally.  
-1. **`Commit` to publish** your updates.
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
-1. **Link** your website on your official pages to let Google and AI bots include in their search results.
+I am passionate about scientific computing, statistical modeling, and reproducible research in genomics.
 
 ## Experience
 
-- Researcher, Univerisity
+- Undergraduate Research Collaborator, Center for Genomic Sciences – UNAM
 
 ## Education
 
-- PhD, Univerisity
+- B.Sc. in Genomic Sciences, UNAM (2024–present)
 
 :::
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 ## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+#Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
-:::{#recent-posts}
-:::
+#:::{#recent-posts}
+#:::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+#<p align="right">[All Posts »](/posts.qmd)</p>
