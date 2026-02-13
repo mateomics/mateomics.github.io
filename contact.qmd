@@ -1,24 +1,20 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
+description-meta: "Get in touch with me!"
 title-block-banner: false
 ---
 
 <center>
 
-**Quarto Academic**
+***Get in touch with me!***
 
-School
+School: [Center for Genomic Sciences](https://www.ccg.unam.mx/en/) (CCG)
 
-College
+University: [National Autonomous University of Mexico](http://english.unam.mx) (UNAM)
 
-University
+Address: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.
 
-Address: 
-
-Phone: 
-
-E-mail: 
+E-mail: majiso@lcg.unam.mx
 
 
 </center>
