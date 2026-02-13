@@ -8,7 +8,7 @@ author-meta: "Mateo Jimenez-Sotelo"
 
 website:
   title: "Mateo Jimenez-Sotelo"
-  image: "https://quarto.org/quarto.png"
+  image: "images/profile_picture.jpeg"
   description: "Mateo Jimenez-Sotelo, undergraduate (LCG) researcher in computational genomics and paleogenomics."
  
   navbar:
