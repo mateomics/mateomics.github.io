@@ -4,7 +4,7 @@ description-meta: "Get in touch with me!"
 title-block-banner: false
 ---
 
-<center>
+<left>
 
 ***Get in touch with me!***
 
