@@ -20,7 +20,14 @@ title-block-banner: false
 
 PI: **Maria Avila-Arcos**, [Population & Evolutionary Genomics Lab](https://liigh.unam.mx/mavila/).
 
-*(Pending for more information)*
+- Analyzed ancient and modern genomic datasets to investigate population structure in colonial-period Mexico
+
+- Performed PCA and admixture analyses integrating ancient individuals from *La Conchita* and *Hospital San José de los Naturales* with reference populations from the 1000 Genomes Project and the Mexican Biobank
+
+- Contributed to population genetic interpretation of ancient pathogen research within the “Ancient Pathogens of New Spain” project
+
+- Collaborated with graduate researchers to process genomic datasets and evaluate ancestry components in ancient Mexican populations
+
 
 </left>
 
@@ -40,6 +47,12 @@ PI: **Maria Avila-Arcos**, [Population & Evolutionary Genomics Lab](https://liig
 
 PI: **Julio A. Freyre-Gonzalez**, [Systems Biology Lab](http://freyrelab.org/en/).
 
-*(Pending for more information)*
+- Contributed to a large-scale metadata curation project integrating RNA-seq and microarray experiments from Gene Expression Omnibus (GEO) to build a controlled vocabulary for transcriptomic experiment annotation.
+
+- Investigated natural language processing (NLP) methods for automated classification of transcriptomic experiment metadata.
+
+- Explored fine-tuning strategies for pre-trained large language models (LLMs) using biological text corpora to improve metadata normalization and ontology mapping.
+
+- Completed laboratory training in Python programming, network topology, and systems biology concepts applied to biological data analysis.
 
 </left>
