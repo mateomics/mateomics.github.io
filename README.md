@@ -19,13 +19,13 @@ The site is generated using [Quarto](https://quarto.org/) and automatically depl
 
 ```
 .
-├── _quarto.yml          # Website configuration
-├── index.qmd            # Homepage
-├── cv.qmd               # Curriculum Vitae
-├── posts/               # Blog / research notes
-├── files/               # Images, PDFs, assets
-├── styles.css           # Custom styling
-└── docs/                # Rendered site (published by GitHub Pages)
+├── _quarto.yml # Website configuration
+├── index.qmd # Homepage
+├── cv.qmd # Curriculum Vitae
+├── posts/ # Blog / research notes
+├── files/ # Images, PDFs, assets
+├── styles.css # Custom styling
+└── docs/ # Rendered site (published by GitHub Pages)
 ```
 
 ## Updating the Website
@@ -57,11 +57,11 @@ GitHub Pages will automatically publish the updated version.
 ## License
 
 Content © Mateo Jiménez Sotelo.
-Feel free to reuse the structure of this repository if helpful, but please do not reuse personal content without permission.
+Feel free to reuse the structure of this repository if helpful, as it is based on the original source, but please do not reuse personal content without permission.
 
 ## Acknowledgments
 
-This website is based on the **Quarto Academic Website Template** developed by Gang He.
+This website is based on the **Quarto Academic Website Template** developed by **Gang He**.
 
 Template repository and documentation:
 https://github.com/drganghe/quarto-academic-website-template
