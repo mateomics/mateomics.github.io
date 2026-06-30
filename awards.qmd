@@ -1,19 +1,35 @@
 <center>
 
-## [School of Medicine](https://www.facmed.unam.mx), UNAM
+## Honors & Awards
+
 </center>
 
 <div style="text-align: right;">
 
-> Mexico City, Mexico | May 2023 - August 2023
+> **Colegio Madrid (CCH curriculum)** · 2024
 
 </div>
 
 <left>
-*Academic Trainee*
 
-PI: **Moises O. Fiesco-Roa**, [Embryology and Genetics Department](https://embriologia.facmed.unam.mx).
+### Graduated with Honors
 
-*(Pending for more information)*
+Graduated with honors after completing the *CCH* curriculum at Colegio Madrid, in recognition of outstanding academic performance throughout high school.
+
+</left>
+
+---
+
+<div style="text-align: right;">
+
+> **Mexico City Biology Olympiad (OCaBi)** · 2023
+
+</div>
+
+<left>
+
+### Gold Medalist
+
+Awarded the **Gold Medal** at the **Mexico City Biology Olympiad** after advancing through the state-level selection process. The Olympiad covered topics including genetics, molecular biology, ecology, evolution, physiology, plant biology, developmental biology, and biochemistry.
 
 </left>

@@ -32,14 +32,21 @@
     "href": "index.html",
     "title": "Mateo Jimenez-Sotelo",
     "section": "",
-    "text": "UNAM Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Bluesky\n  \n\n  \n  \nI am a second-year undergraduate student in Genomic Sciences at the National Autonomous University of Mexico (UNAM), based at the Center for Genomic Sciences (CCG).\nMy academic interests lie in computational genomics, paleogenomics, and evolutionary biology. I am particularly interested in the analysis of ancient DNA and the evolutionary dynamics of pathogens in colonial-era populations of New Spain.\nCurrently, I collaborate in research projects focused on:\n\nSystems computational biology: curation and normalization of microarray metadata for large-scale transcriptomic analyses\n\nPaleogenomics: genomic analysis of ancient pathogens from historical populations\n\nI am passionate about scientific computing, statistical modeling, and reproducible research in genomics.\n\n\n\nUndergraduate Research Collaborator, Center for Genomic Sciences – UNAM\n\n\n\n\n\nB.Sc. in Genomic Sciences, UNAM (2024–present)"
+    "text": "UNAM Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Bluesky\n  \n\n  \n  \nI am a third-year undergraduate student in Genomic Sciences at the National Autonomous University of Mexico (UNAM), based at the Center for Genomic Sciences (CCG).\nMy research lies at the intersection of computational biology, systems biology, bioinformatics, transcriptomics, and evolutionary genomics. I am interested in developing computational methods to understand biological systems, from gene regulatory networks to ancient human populations.\nCurrently, I contribute to research in two areas:\n\nSystems Biology — investigating causal discovery methods for reconstructing gene regulatory networks from observational transcriptomic data, while exploring transformer-based language models for biomedical NLP and transcriptomic metadata harmonization.\nPopulation & Evolutionary Genomics — studying population structure in colonial-era individuals from New Spain using principal component analysis (PCA) and admixture-based approaches.\n\nBeyond research, I enjoy developing reproducible bioinformatics workflows, scientific software, and computational tools using Python, R, Bash, and the Linux ecosystem.\n\n\nUndergraduate Researcher\n\nSystems Biology Laboratory — Center for Genomic Sciences (CCG), UNAM\n\n\n\n\n\nPopulation & Evolutionary Genomics Laboratory — International Laboratory for Human Genome Research (LIIGH), UNAM\n\n\n\n\n\nB.Sc. in Genomic Sciences, UNAM (2024–present)"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#current-position",
+    "href": "index.html#current-position",
     "title": "Mateo Jimenez-Sotelo",
     "section": "",
-    "text": "Undergraduate Research Collaborator, Center for Genomic Sciences – UNAM"
+    "text": "Undergraduate Researcher\n\nSystems Biology Laboratory — Center for Genomic Sciences (CCG), UNAM"
+  },
+  {
+    "objectID": "index.html#previous-research-experience",
+    "href": "index.html#previous-research-experience",
+    "title": "Mateo Jimenez-Sotelo",
+    "section": "",
+    "text": "Population & Evolutionary Genomics Laboratory — International Laboratory for Human Genome Research (LIIGH), UNAM"
   },
   {
     "objectID": "index.html#education",
@@ -53,14 +60,14 @@
     "href": "experience.html",
     "title": "Research experience",
     "section": "",
-    "text": "Undergraduate researcher\nPI: Maria Avila-Arcos, Population & Evolutionary Genomics Lab.\nUndergraduate researcher\nPI: Julio A. Freyre-Gonzalez, Systems Biology Lab."
+    "text": "Undergraduate researcher\nPI: Julio A. Freyre-Gonzalez, Systems Biology Lab."
   },
   {
-    "objectID": "experience.html#center-for-genomic-sciences-unam",
-    "href": "experience.html#center-for-genomic-sciences-unam",
+    "objectID": "experience.html#international-laboratory-for-human-genome-research-unam",
+    "href": "experience.html#international-laboratory-for-human-genome-research-unam",
     "title": "Research experience",
-    "section": "Center for Genomic Sciences, UNAM",
-    "text": "Center for Genomic Sciences, UNAM"
+    "section": "International Laboratory for Human Genome Research, UNAM",
+    "text": "International Laboratory for Human Genome Research, UNAM\n\n\n\nJuriquilla, Mexico | Jan 2025 – May 2026\n\n\n Undergraduate researcher\nPI: Maria Avila-Arcos, Population & Evolutionary Genomics Lab.\n\nPerformed principal component analysis (PCA) and ADMIXTURE analyses of ancient and present-day genomic datasets.\nIntegrated ancient individuals from La Conchita and Hospital San José de los Naturales with reference panels from the 1000 Genomes Project and the Mexican Biobank (MXB).\nProcessed genotype and sequencing datasets using PLINK, SAMtools, BCFtools, EIGENSOFT (smartpca), ADMIXTOOLS, and Pong.\nGenerated publication-quality visualizations and contributed to the interpretation of ancestry patterns in colonial-era individuals from New Spain.\nContributed to the population genomics component of the Ancient Pathogens of New Spain project."
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
@@ -75,13 +82,6 @@
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
     "section": "Links",
     "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "awards.html",
-    "href": "awards.html",
-    "title": "Mateo Jimenez-Sotelo",
-    "section": "",
-    "text": "Academic Trainee\nPI: Moises O. Fiesco-Roa, Embryology and Genetics Department.\n(Pending for more information)"
   },
   {
     "objectID": "publications.html",
@@ -151,7 +151,14 @@
     "href": "interests.html",
     "title": "Beyond Science",
     "section": "",
-    "text": "I love cycling, particularly when my routes take me along open roads, winding gravel trails, or bustling city streets!\nMusic has always been part of my life. I’m mainly drawn to jazz, classical, rock, and rock en español. I studied classical double bass and even performed in an orchestra. Over the years, I’ve learned to play several instruments, including flute, recorder, guitar, bass, and double bass."
+    "text": "I’m an enthusiastic Linux user and a strong supporter of open-source software. I love exploring different distros, experimenting with desktop environments and window managers, and learning more about the Unix ecosystem. Lately, I’ve been using Arch Linux and learning Hyprland, while refining my command-line workflow and customizing my desktop through dotfiles, terminal applications, and window manager configurations.\nIn my opinion, Linux is not only an operating system, but a platform for learning and experimentation!\nCycling is my favorite way to disconnect from the computer and explore new places, particularly when my routes take me along open roads, winding gravel trails, or bustling city streets. Whether it’s a short ride or an all-day adventure, cycling has become an important part of my daily life!\nMusic has always been part of my life. I’m mainly drawn to jazz, classical, progressive rock, and rock en español. I studied double bass and even performed in an orchestra, an experience that taught me discipline, teamwork, and careful listening. Over the years, I’ve learned to play several instruments, including flute, bass, and double bass."
+  },
+  {
+    "objectID": "interests.html#cycling",
+    "href": "interests.html#cycling",
+    "title": "Beyond Science",
+    "section": "Cycling",
+    "text": "Cycling"
   },
   {
     "objectID": "interests.html#music",

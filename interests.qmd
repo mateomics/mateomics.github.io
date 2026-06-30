@@ -5,11 +5,30 @@ title-block-banner: false
 ---
 
 <center>
+## Linux!
+</center>
+
+<left>
+
+I'm an enthusiastic **Linux** user and a strong supporter of open-source software. I love exploring different distros, experimenting with desktop environments and window managers, and learning more about the Unix ecosystem. Lately, I've been using **Arch Linux** and learning **Hyprland**, while refining my command-line workflow and customizing my desktop through dotfiles, terminal applications, and window manager configurations.
+
+In my opinion, Linux is not only an operating system, but a platform for learning and experimentation!
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+  <img src="images/desktop.jpg" alt="Hyprland desktop" style="height: 310px; width: auto;"/>
+  <img src="images/terminal.jpg" alt="Terminal workflow" style="height: 310px; width: auto;"/>
+</div>
+
+</left>
+
+---
+
+<center>
 ## Cycling
 </center>
 
 <left>
-I love cycling, particularly when my routes take me along open **roads**, winding **gravel** trails, or bustling city **streets**!
+Cycling is my favorite way to disconnect from the computer and explore new places, particularly when my routes take me along open **roads**, winding **gravel** trails, or bustling city **streets**. Whether it's a short ride or an all-day adventure, cycling has become an important part of my daily life!
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <img src="images/road.jpg" alt="Speed and flow of the road" style="height: 360px; width: auto;"/>
@@ -19,12 +38,14 @@ I love cycling, particularly when my routes take me along open **roads**, windin
 
 </left>
 
+---
+
 <center>
 ## Music
 </center>
 
 <left>
-Music has always been part of my life. I’m mainly drawn to jazz, classical, rock, and *rock en español*. I studied classical double bass and even performed in an orchestra. Over the years, I’ve learned to play several instruments, including **flute**, recorder, guitar, **bass**, and **double bass**.
+Music has always been part of my life. I’m mainly drawn to jazz, classical, progressive rock, and *rock en español*. I studied double bass and even performed in an orchestra, an experience that taught me discipline, teamwork, and careful listening. Over the years, I’ve learned to play several instruments, including **flute**, **bass**, and **double bass**.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <img src="images/flute.jpg" alt="Flute" style="height: 280px; width: auto;"/>

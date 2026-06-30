@@ -6,33 +6,6 @@ title-block-banner: false
 
 <center>
 
-## [International Laboratory for Human Genome Research](https://liigh.unam.mx), UNAM
-</center>
-
-<div style="text-align: right;">
-
-> Juriquilla, Mexico | Jan 2025 - present
-
-</div>
-
-<left>
-*Undergraduate researcher*
-
-PI: **Maria Avila-Arcos**, [Population & Evolutionary Genomics Lab](https://liigh.unam.mx/mavila/).
-
-- Analyzed ancient and modern genomic datasets to investigate population structure in colonial-period Mexico
-
-- Performed PCA and admixture analyses integrating ancient individuals from *La Conchita* and *Hospital San José de los Naturales* with reference populations from the 1000 Genomes Project and the Mexican Biobank
-
-- Contributed to population genetic interpretation of ancient pathogen research within the “Ancient Pathogens of New Spain” project
-
-- Collaborated with graduate researchers to process genomic datasets and evaluate ancestry components in ancient Mexican populations
-
-
-</left>
-
-<center>
-
 ## [Center for Genomic Sciences](https://www.ccg.unam.mx/en/), UNAM
 </center>
 
@@ -47,12 +20,49 @@ PI: **Maria Avila-Arcos**, [Population & Evolutionary Genomics Lab](https://liig
 
 PI: **Julio A. Freyre-Gonzalez**, [Systems Biology Lab](http://freyrelab.org/en/).
 
-- Contributed to a large-scale metadata curation project integrating RNA-seq and microarray experiments from Gene Expression Omnibus (GEO) to build a controlled vocabulary for transcriptomic experiment annotation.
+### Causal Discovery in Gene Regulatory Networks
 
-- Investigated natural language processing (NLP) methods for automated classification of transcriptomic experiment metadata.
+- Investigating causal discovery methods for reconstructing gene regulatory networks from observational transcriptomic data.
 
-- Explored fine-tuning strategies for pre-trained large language models (LLMs) using biological text corpora to improve metadata normalization and ontology mapping.
+- Evaluating graph-based and machine learning approaches, including **additive noise models**, **SCORE**, **diffusion models**, and **transformer-based architectures**.
 
-- Completed laboratory training in Python programming, network topology, and systems biology concepts applied to biological data analysis.
+- Integrating regulatory network resources such as [**Abasy Atlas**](https://abasy.ccg.unam.mx) and the [**Natural Decomposition Approach**](http://freyrelab.org/en/research/natural-decomposition-approach/) for benchmarking and biological interpretation.
+
+### NLP for Transcriptomic Metadata harmonization
+
+- Developing transformer-based NLP pipelines to harmonize RNA-seq and microarray metadata from the **Gene Expression Omnibus ([GEO](https://www.ncbi.nlm.nih.gov/geo/))**.
+
+- Evaluating large language models for biological metadata normalization using controlled vocabularies and ontology-aware representations.
+
+- Implementing preprocessing, embedding generation, and semantic similarity analyses using **PyTorch**, **Hugging Face Transformers**, and **pandas**.
+
+</left>
+
+<center>
+
+## [International Laboratory for Human Genome Research](https://liigh.unam.mx), UNAM
+</center>
+
+<div style="text-align: right;">
+
+> Juriquilla, Mexico | Jan 2025 – May 2026
+
+</div>
+
+<left>
+*Undergraduate researcher*
+
+PI: **Maria Avila-Arcos**, [Population & Evolutionary Genomics Lab](https://liigh.unam.mx/mavila/).
+
+- Performed principal component analysis (PCA) and **ADMIXTURE** analyses of ancient and present-day genomic datasets.
+
+- Integrated ancient individuals from *La Conchita* and *Hospital San José de los Naturales* with reference panels from the **1000 Genomes Project** and the **Mexican Biobank (MXB)**.
+
+- Processed genotype and sequencing datasets using **PLINK**, **SAMtools**, **BCFtools**, **EIGENSOFT (smartpca)**, **ADMIXTOOLS**, and **Pong**.
+
+- Generated publication-quality visualizations and contributed to the interpretation of ancestry patterns in colonial-era individuals from **New Spain**.
+
+- Contributed to the population genomics component of the *Ancient Pathogens of New Spain* project.
+
 
 </left>

@@ -1,6 +1,6 @@
 ---
 title: "Mateo Jimenez-Sotelo"
-description-meta: "Undergraduate researcher in computational genomics and paleogenomics at UNAM"
+description-meta: "Undergraduate researcher in computational biology, systems biology, and bioinformatics at UNAM."
 image: "images/profile_picture.jpeg" # Here sould be your profile picture
 page-navigation: false
 toc: false
@@ -54,20 +54,27 @@ about:
 
 :::{#hero-heading}
 
-I am a second-year undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx) at the [National Autonomous University of Mexico](http://english.unam.mx) (UNAM), based at the [Center for Genomic Sciences](https://www.ccg.unam.mx/en/) (CCG).
+I am a third-year undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx) at the [National Autonomous University of Mexico](http://english.unam.mx) (UNAM), based at the [Center for Genomic Sciences](https://www.ccg.unam.mx/en/) (CCG).
 
-My academic interests lie in computational genomics, paleogenomics, and evolutionary biology. I am particularly interested in the analysis of ancient DNA and the evolutionary dynamics of pathogens in colonial-era populations of New Spain.
+My research lies at the intersection of **computational biology**, **systems biology**, **bioinformatics**, **transcriptomics**, and **evolutionary genomics**. I am interested in developing computational methods to understand biological systems, from gene regulatory networks to ancient human populations.
 
-Currently, I collaborate in research projects focused on:
+Currently, I contribute to research in two areas:
 
-- **Systems computational biology**: curation and normalization of microarray metadata for large-scale transcriptomic analyses  
-- **Paleogenomics**: genomic analysis of ancient pathogens from historical populations  
+- **Systems Biology** — investigating causal discovery methods for reconstructing gene regulatory networks from observational transcriptomic data, while exploring transformer-based language models for biomedical NLP and transcriptomic metadata harmonization.
 
-I am passionate about scientific computing, statistical modeling, and reproducible research in genomics.
+- **Population & Evolutionary Genomics** — studying population structure in colonial-era individuals from New Spain using principal component analysis (PCA) and admixture-based approaches.
 
-## Experience
+Beyond research, I enjoy developing reproducible bioinformatics workflows, scientific software, and computational tools using Python, R, Bash, and the Linux ecosystem.
 
-- Undergraduate Research Collaborator, Center for Genomic Sciences – UNAM
+## Current Position
+
+**Undergraduate Researcher**
+
+- Systems Biology Laboratory — Center for Genomic Sciences (CCG), UNAM
+
+## Previous Research Experience
+
+- Population & Evolutionary Genomics Laboratory — International Laboratory for Human Genome Research (LIIGH), UNAM
 
 ## Education
 

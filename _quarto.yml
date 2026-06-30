@@ -27,7 +27,7 @@ website:
           #  href: projects.qmd
           - text: Experience
             href: experience.qmd
-          - text: Awards
+          - text: Honors & Awards
             href: awards.qmd
       - text: About
         menu:
@@ -51,7 +51,7 @@ website:
 
     right: 
       - text: CV
-        href: files/curriculum_vitae_Mateo_Jimenez.pdf # files/nsf-biosketch.pdf
+        href: files/cv_Mateo_Jimenez.pdf # files/nsf-biosketch.pdf
       - icon: github
         href: https://github.com/mateomics
         target: _blank
