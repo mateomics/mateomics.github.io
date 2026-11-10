@@ -10,11 +10,11 @@
 <atom:link href="https://mateomics.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Mateo Jimenez-Sotelo, undergraduate (LCG) researcher in computational genomics and paleogenomics.</description>
 <image>
-<url>https://mateomics.github.io/images/profile_picture.jpeg</url>
+<url>https://mateomics.github.io/images/profile_picture.jpg</url>
 <title>Mateo Jimenez-Sotelo</title>
 <link>https://mateomics.github.io/posts.html</link>
 </image>
-<generator>quarto-1.9.38</generator>
+<generator>quarto-1.10.19</generator>
 <lastBuildDate>Tue, 15 Oct 2024 06:00:00 GMT</lastBuildDate>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
